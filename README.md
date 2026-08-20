@@ -52,10 +52,9 @@ each task.
 Forward pass on a random input sequence of length 512 produces the expected
 logits tensor:
 
+​```
 Output shape: torch.Size([1, 512, 10000])
-
-## Output
-![Code-output](Task1output.png)
+​```
 
 ---
 
